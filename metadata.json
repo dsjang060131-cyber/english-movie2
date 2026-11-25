@@ -2,5 +2,7 @@
   "name": "NoelFrame Studio",
   "description": "7-second 3D/2D animated Christmas Eve short-film clip studio with English voiceover and burned-in subtitles for English learners.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
